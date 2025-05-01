@@ -6,7 +6,7 @@ You do not need any extra libraries, the only thing is installed Python3.
 We have provided example with renting one car for three days. 
 To run example:
 ```
-git clone https://github.com/jakubrog/car-sharing-blockchain/
+git clone https://github.com/Krishi1211/Carpooling_blockchain.git
 cd car-sharing-blockchain
 python main.py
 ```
